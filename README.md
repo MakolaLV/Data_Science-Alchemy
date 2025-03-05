@@ -1,4 +1,4 @@
-## Welcome to My Data Science Alchemy Repository! - Portfolio
+## Welcome to My Data Alchemy Repository! - (Data Science Portfolio)
 
 Here, I explore the science of turning raw datasets into meaningful predictions, insights, and automation. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data scientist.This is a repository to showcase skills, share projects and track my progress in Data Science related topics.
 
