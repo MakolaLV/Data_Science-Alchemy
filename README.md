@@ -3,7 +3,7 @@
 Here, I explore the science of turning raw datasets into meaningful predictions, insights, and automation. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data scientist.This is a repository to showcase skills, share projects and track my progress in Data Science related topics.
 
 ## Why Alchemy?  
-"Alchemy" suggests the magical transformation of raw data into valuable insights. It’s a metaphor that draws from the ancient pursuit of turning base metals into gold, symbolizing how data scientists unlock hidden patterns and knowledge from seemingly ordinary datasets.Data alchemy involves the strategic and systematic conversion of raw data into valuable insights that drive informed decision-making. It goes beyond basic analytics, employing advanced techniques and technologies to extract meaningful patterns, correlations, and trends.
+"Alchemy" suggests the magical transformation of raw data into valuable insights. It’s a metaphor that draws from the ancient pursuit of turning base metals into gold, symbolizing how data scientists unlock hidden patterns and knowledge from seemingly ordinary datasets. Data alchemy involves the strategic and systematic conversion of raw data into valuable insights that drive informed decision-making. It goes beyond basic analytics, employing advanced techniques and technologies to extract meaningful patterns, correlations, and trends.
 
 ## Featured Projects:
 - **Project 1**: Predictive Analytics & Machine Learning
